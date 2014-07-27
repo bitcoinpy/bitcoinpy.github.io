@@ -1,4 +1,4 @@
 bitcoinpy.github.io
 ===================
 
-Bitcoinpy's Wensite
+Bitcoinpy's Website
